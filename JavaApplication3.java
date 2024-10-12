@@ -14,7 +14,7 @@ public class JavaApplication3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      System.out.print("mmm");  // TODO code application logic here
+      System.out.print("mmm"+333);  // TODO code application logic here
     }
     
 }
